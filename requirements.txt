@@ -1,0 +1,3 @@
+pandas
+numpy
+panda-data==0.0.12
