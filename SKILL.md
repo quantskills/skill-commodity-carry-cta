@@ -8,7 +8,7 @@ quantSkills:
   repository_url: https://github.com/quantskills/skill-commodity-carry-cta
   project_type: skill
   collection: futures-factors
-  license: GPL-3.0
+  license: GPL-3.0-only
   category: factor
   tags: [commodity, futures, cta, carry, term-structure, momentum, basis, inventory, cross-section]
   platforms: [claude-code, codex, openclaw]
@@ -77,7 +77,7 @@ Produce:
 - Inventory / warehouse-receipt data is exchange-reported with lags; align point-in-time.
 - Backtest assumes fills at the stitched price with a roll-cost stub; no market impact / capacity.
 - Research only — no orders, **not investment advice**.
-- Community Project — not officially validated or endorsed until maintainer review.
+- Community Project; validate outputs against the cited data and local review requirements.
 
 ## ✅ Quality Bar
 
