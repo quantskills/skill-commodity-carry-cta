@@ -1,0 +1,8 @@
+---
+description: Load the commodity carry CTA instructions.
+globs: ["**/*.py", "**/*.csv", "**/*.md"]
+alwaysApply: false
+---
+
+Read `SKILL.md` before changing or running this skill. Preserve contract stitching,
+point-in-time alignment, roll-cost assumptions, and research-only wording.

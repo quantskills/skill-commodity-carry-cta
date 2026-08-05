@@ -34,12 +34,12 @@ contract symbols. Roll-day returns therefore never divide a new contract by an o
 ## ⚠️ Disclaimer
 
 Research only. Roll handling and point-in-time inventory alignment are mandatory. This skill
-places no orders and is not investment advice. Community Project — not officially validated
-or endorsed until maintainer review.
+places no orders and is not investment advice. Community Project; validate outputs against
+the cited data and local review requirements.
 
 ## 📜 License
 
-GPL-3.0. See [LICENSE](LICENSE).
+GPL-3.0-only. See [LICENSE](LICENSE).
 
 ## 🐼 PandaAI / QUANTSKILLS Community
 
