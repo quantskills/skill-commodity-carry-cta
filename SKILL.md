@@ -93,3 +93,7 @@ Before delivering artifacts (degrade & disclose rather than pass silently):
 
 - `references/factor-spec.md` — factor formulas, dominant-contract stitching, roll-cost rules.
 - `references/source_boundary.md` — allowed data sources.
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.

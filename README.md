@@ -100,3 +100,6 @@ GPL-3.0-only，详见 [LICENSE](LICENSE)。
   <br>
   <sub>扫码加入 PandaAI 社群，交流 QUANTSKILLS 技能、Agent 工作流与量化研究实践。</sub>
 </div>
+
+
+Pandadata 兼容维护：[abgyjaguo](https://github.com/abgyjaguo)，保留原项目作者署名。
