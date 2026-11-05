@@ -1,3 +1,3 @@
 pandas
 numpy
-panda-data==0.0.12
+panda-data==1.0.6
